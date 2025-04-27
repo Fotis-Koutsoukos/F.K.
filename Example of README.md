@@ -1,8 +1,8 @@
-# My First Try 
+# Example of README.md 
 
 Getting started with github
 
-## What i have learnt so far using statistic R:
+**Upload an image**
 
-* Regression
-* k-means
+
+![clusterdendro](https://github.com/Fotis-Koutsoukos/F.K./blob/main/clusterdendro.png?raw=true)
